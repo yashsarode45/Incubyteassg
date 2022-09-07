@@ -29,11 +29,13 @@ Approach:
 - In the exception catch we push the negative numbers into another vector, so that all negative numbers can be stored together in order to output.
 
 5. If there are multiple negatives, show all of them in the exception message
+
 Approach: 
 - Use to_string() method to concatenate all negative numbers into a string and display it with exception message.
 
 
 6. Numbers bigger than 1000 should be ignored.
+
 Approach: 
 - While pushing the number into the numbers vector we check this condition.
 
