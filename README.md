@@ -11,6 +11,7 @@ Approach:
 - The integer is the pushed into a vector in order to take the sum.
 
 2. Allow the add method to handle an unknown amount of numbers.
+3. 
 Approach: 
 - The traversal will go on for the size of the input string.
 
